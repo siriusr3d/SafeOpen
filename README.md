@@ -6,3 +6,7 @@ Works with Windows XP / Vista / 7 / 8.1 / 10
 
 
 ### Screen shots
+
+![Scanning for USB Devices](https://github.com/siriusr3d/USBSafeOpen/blob/master/img/scanning.png)
+
+![Options to select attached USB Storage devices](https://github.com/siriusr3d/USBSafeOpen/blob/master/img/drive_select.png)
