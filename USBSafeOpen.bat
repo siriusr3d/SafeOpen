@@ -4,6 +4,7 @@ setlocal enabledelayedexpansion
 :begin
 cls
 
+TITLE USBSafeOpen v1.0
 
 echo " ************************************************************************************* "
 echo "	 _     _ ______ ______   ______          ___       _______                   	"
