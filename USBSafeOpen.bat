@@ -1,3 +1,5 @@
+REM: author SiriuSr3D
+
 @echo off
 setlocal
 setlocal enabledelayedexpansion
